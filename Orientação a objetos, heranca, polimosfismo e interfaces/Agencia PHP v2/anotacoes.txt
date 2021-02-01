@@ -1,0 +1,4 @@
+Aprendemos o 4º pilar da orientação a objetos que é o Polimorfismo;
+Vimos que a mesma referência pode se comportar de diversas formas dependendo do contexto, e essa é uma explicação simplória do polimorfismo;
+Reforçamos nosso conhecimento sobre herança criando diversas novas classes;
+Aprendemos o conceito de uma classe de serviço, que representa uma funcionalidade ao invés de representar um modelo de nosso domínio;
